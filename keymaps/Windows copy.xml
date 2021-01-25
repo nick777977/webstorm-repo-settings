@@ -1,0 +1,7 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Graph.ZoomIn" />
+  <action id="Graph.ZoomOut" />
+  <action id="ZoomCurrentWindow">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
+</keymap>
