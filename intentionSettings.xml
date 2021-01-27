@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Convert to function expression" />
+    <ignoreAction name="JavaScript/Control Flow/Split and-ed condition to nested ifs" />
+    <ignoreAction name="CSS/Extract ruleset" />
+  </component>
+</application>
